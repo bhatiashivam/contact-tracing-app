@@ -9,9 +9,9 @@ information about the scheduling of the advertisements and the higher-level life
 
 
 <p align="center" style="border: solid 2px black;">
-  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0001.jpg?raw=true" height="400" title="splash screen">
-  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0002.jpg?raw=true" height="400">
-  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0004.jpg?raw=true" height="400">
-  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0006.jpg?raw=true" height="400">
-  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0007.jpg?raw=true" height="400">
+  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0001.jpg?raw=true" height="500" title="splash screen">
+  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0002.jpg?raw=true" height="500">
+  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0004.jpg?raw=true" height="500">
+  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0006.jpg?raw=true" height="500">
+  <img src="https://github.com/bhatiashivam/contact-tracing-app/blob/main/Figma%20-%20Wireframe%20Mockups/0007.jpg?raw=true" height="500">
 </p>
